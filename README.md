@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Proyectos
-He trabajado en proyectos como Landing-page, paginas web con diferentes metodos de pago y suscripciones, tentgo algunos repositorios con ejemplos de algunos de mis trabajos
+He trabajado en proyectos como Landing-page, paginas web con diferentes metodos de pago y suscripciones, tengo algunos repositorios con ejemplos de algunos de mis trabajos
