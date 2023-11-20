@@ -1,18 +1,14 @@
 ### Hola, mi nombre es David 👋
-un desarrollador web con experiencia en HTML, JavaScript, CSS, React y Python.
-Actualmente tengo 24 años y me apasiona crear soluciones a través de la tecnología.
+Soy un apasionado desarrollador web con 24 años de edad, especializado en la creación de soluciones tecnológicas innovadoras. Mi enfoque se centra en construir aplicaciones robustas y escalables utilizando diversas tecnologías de vanguardia.
 
 ## Experiencia
-Soy un apasionado desarrollador web con experiencia sólida en la creación de aplicaciones web innovadoras y funcionales. Mi enfoque principal es la construcción de soluciones robustas y escalables utilizando una variedad de tecnologías de vanguardia.
+Tengo sólida experiencia en el desarrollo backend y frontend. En el backend, he trabajado con Python, Flask , Django, Node, Express.js, Next.js para crear aplicaciones web eficientes y seguras. Mi conocimiento en bases de datos Sql y NoSql me permite diseñar sistemas que garantizan la integridad de los datos y un rendimiento óptimo.
 
-Mi experiencia se centra en el desarrollo backend y frontend. En el lado del backend, tengo experiencia en el uso de Python, Flask y Django para crear aplicaciones web eficientes y seguras. Mi experiencia en bases de datos SQL me permite diseñar y administrar sistemas de bases de datos que garantizan la integridad de los datos y el rendimiento óptimo.
+En el frontend, poseo un profundo conocimiento de JavaScript y React, lo que me permite crear interfaces de usuario atractivas y receptivas, brindando una experiencia de usuario excepcional.
 
-En el lado del frontend, tengo un profundo conocimiento de JavaScript y React, lo que me permite crear interfaces de usuario atractivas y receptivas que ofrecen una experiencia de usuario excepcional. Estoy comprometido con el diseño centrado en el usuario y la usabilidad, lo que se traduce en aplicaciones web intuitivas y agradables de usar.
+Además de mis habilidades actuales, cuento con experiencia en Node.js, React y MongoDB, ampliando así mi conjunto de habilidades para ofrecer soluciones más completas y versátiles.
 
-Además, soy competente en el uso de Azure DevOps para la gestión de proyectos, la integración continua y la entrega continua, lo que me permite colaborar eficazmente en equipos de desarrollo y entregar proyectos de alta calidad a tiempo.
-
-Mi pasión por la programación se combina con mi habilidad para resolver problemas de manera creativa y mi deseo constante de aprender y mantenerme actualizado con las últimas tendencias tecnológicas en el campo del desarrollo web.
-
+Soy competente en el uso de Azure DevOps y AWS para la gestión de proyectos, la integración continua y la entrega continua, lo que me permite colaborar eficazmente en equipos de desarrollo y entregar proyectos de alta calidad a tiempo.
 ## Habilidades 
 
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
@@ -20,6 +16,9 @@ Mi pasión por la programación se combina con mi habilidad para resolver proble
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
+![Node](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
+[MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
+
 <!--
 **drmelom/drmelom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -35,4 +34,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Proyectos
-He trabajado en proyectos como Landing-page, paginas web con diferentes metodos de pago y suscripciones, tengo algunos repositorios con ejemplos de algunos de mis trabajos
+He trabajado en proyectos como Landing-page, paginas web con diferentes metodos de pago y suscripciones, desarrollo de APIRestFul, interfaces de usuario dinamicas. Tengo algunos repositorios con ejemplos de algunos de mis trabajos
