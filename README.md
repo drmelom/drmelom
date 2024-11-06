@@ -22,7 +22,8 @@ Soy competente en el uso de Azure DevOps y AWS para la gestión de proyectos, la
 ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
 ![NestJS](https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label=)
 ![SQL](https://img.shields.io/static/v1?style=for-the-badge&message=SQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
-
+![AWS](https://img.shields.io/static/v1?style=for-the-badge&message=AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
+![Terraform](https://img.shields.io/static/v1?style=for-the-badge&message=Terraform&color=623CE4&logo=Terraform&logoColor=FFFFFF&label=)
 <!--
 **drmelom/drmelom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
