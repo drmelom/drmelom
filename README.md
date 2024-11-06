@@ -1,14 +1,12 @@
-### Hola, mi nombre es David 👋
-Soy un apasionado desarrollador web con 24 años de edad, especializado en la creación de soluciones tecnológicas innovadoras. Mi enfoque se centra en construir aplicaciones robustas y escalables utilizando diversas tecnologías de vanguardia.
+###Hola, mi nombre es David 👋
+Soy un desarrollador web apasionado y especializado en la creación de soluciones tecnológicas innovadoras y escalables. Con 24 años, me enfoco en construir aplicaciones robustas que ofrecen experiencias de usuario excepcionales.
 
-## Experiencia
-Tengo sólida experiencia en el desarrollo backend y frontend. En el backend, he trabajado con Python, Flask , Django, Node, Express.js, Next.js para crear aplicaciones web eficientes y seguras. Mi conocimiento en bases de datos Sql y NoSql me permite diseñar sistemas que garantizan la integridad de los datos y un rendimiento óptimo.
+##Experiencia
+Tengo experiencia tanto en el desarrollo backend como frontend. En el backend, he trabajado con tecnologías como Python, Flask, Django, Node.js, Express.js, Next.js y NestJS para desarrollar aplicaciones eficientes y seguras. Además, cuento con conocimientos avanzados en bases de datos SQL y NoSQL (especialmente MongoDB), lo cual me permite diseñar sistemas que maximizan la integridad y el rendimiento de los datos.
 
-En el frontend, poseo un profundo conocimiento de JavaScript y React, lo que me permite crear interfaces de usuario atractivas y receptivas, brindando una experiencia de usuario excepcional.
+En el frontend, poseo un dominio sólido de JavaScript, TypeScript y React, con los que desarrollo interfaces dinámicas y responsivas. Mi experiencia en HTML5 y CSS3 contribuye a una creación de interfaces modernas, optimizadas y centradas en el usuario.
 
-Además de mis habilidades actuales, cuento con experiencia en Node.js, React y MongoDB, ampliando así mi conjunto de habilidades para ofrecer soluciones más completas y versátiles.
-
-Soy competente en el uso de Azure DevOps y AWS para la gestión de proyectos, la integración continua y la entrega continua, lo que me permite colaborar eficazmente en equipos de desarrollo y entregar proyectos de alta calidad a tiempo.
+También manejo herramientas como AWS y Terraform , que empleo para la gestión de proyectos, la integración y entrega continua. Estas habilidades me permiten colaborar eficazmente en equipos de desarrollo y entregar proyectos de alta calidad a tiempo.
 ## Habilidades 
 
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=)
