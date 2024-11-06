@@ -1,7 +1,7 @@
-###Hola, mi nombre es David 👋
+### Hola, mi nombre es David 👋
 Soy un desarrollador web apasionado y especializado en la creación de soluciones tecnológicas innovadoras y escalables. Con 24 años, me enfoco en construir aplicaciones robustas que ofrecen experiencias de usuario excepcionales.
 
-##Experiencia
+## Experiencia
 Tengo experiencia tanto en el desarrollo backend como frontend. En el backend, he trabajado con tecnologías como Python, Flask, Django, Node.js, Express.js, Next.js y NestJS para desarrollar aplicaciones eficientes y seguras. Además, cuento con conocimientos avanzados en bases de datos SQL y NoSQL (especialmente MongoDB), lo cual me permite diseñar sistemas que maximizan la integridad y el rendimiento de los datos.
 
 En el frontend, poseo un dominio sólido de JavaScript, TypeScript y React, con los que desarrollo interfaces dinámicas y responsivas. Mi experiencia en HTML5 y CSS3 contribuye a una creación de interfaces modernas, optimizadas y centradas en el usuario.
